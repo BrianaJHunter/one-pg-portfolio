@@ -7,3 +7,4 @@ Includes:
 - Name
 - Profession Overview
 - Profession Breakdown
+- Skills
